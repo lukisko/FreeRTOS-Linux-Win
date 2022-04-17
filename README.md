@@ -26,3 +26,7 @@ This project is inspired by [supervisor's repository](https://github.com/ihavn/M
 ## Making project
 
 To  make your own project you need to modify my_main.c file and repete **To run on linux** if runing on linux and **To run on Windows** if your PC runs windows
+
+## Contibuting
+
+If you find something wrong you have some questions or you have something that can help do not hesitate to make new branch and make pull request.
